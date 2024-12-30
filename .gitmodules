@@ -1,6 +1,6 @@
 [submodule "themes/next"]
 	path = themes/next
-	url = ./themes/next
+	url = https://github.com/iissnan/hexo-theme-next.git
 [submodule "themes/particlex"]
 	path = themes/particlex
 	url = https://github.com/theme-particlex/hexo-theme-particlex.git
