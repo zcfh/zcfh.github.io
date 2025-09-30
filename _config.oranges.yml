@@ -51,7 +51,7 @@ comments:
     repo: https://zcfh.github.io
     owner: zcfh
     admin: zcfh
-    id: location.zcfh
+    id: location.pathname
     distractionFreeMode: false
 
   valine:
